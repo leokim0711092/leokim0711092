@@ -20,7 +20,6 @@ My adventure from academic projects to professional enhancement reflects my comm
 
 <br><br>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chentienchun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chentienchun" height="30" width="40" /></a>
