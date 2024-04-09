@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tien-Chun, Chen</h1>
-<h3 align="center">Electronics & Electrical and Mechanical Engineering Graduate | Robotic Software Engineer</h3>
+<h3 align="center">Electrical & Computer Engineering and Mechanical Engineering Graduate | Robotic Software Engineer</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence for Robotics**
 
