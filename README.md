@@ -11,7 +11,7 @@
 
 ## **Intro**
 
-Hello there!👋!<br>
+Hi there!👋!<br>
 I’m a passionate innovator at the intersection of electronics & electrical engineering and mechanical engineering. My academic journey wasn’t just about earning dual majors at the university; it was about bringing theoretical knowledge to life. Driven by a zeal to solve real-world problems, I collaborated with a team of like-minded individuals to design a Automated Storage and Retrieval System with Shuttle and Quick Response Code from scratch. Our project not only won an award for its innovative implementation but also paved the way for us to design an Autonomous Mobile Robot (AMR) for Cloud Service, aimed at enhancing distributed robotic applications in health facilities.
 
 Although our journey with the AMR project concluded with our graduation, the experience left an indelible mark on me, igniting a burning desire to delve deeper into the world of robotics. To further this aim, I dedicated seven months to the Construct Master Class, sharpening my skills and knowledge to craft a career as a Robotic Software Engineer.
